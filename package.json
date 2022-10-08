@@ -1,5 +1,5 @@
 {
-  "name": "xlsx-writestream",
+  "name": "xlsx-writestream-yijin",
   "description": "Streaming XLSX writer. Forked from rubenv/node-xlsx-writer. Add more options to custom the output excel",
   "version": "0.0.1",
   "homepage": "https://github.com/Ulyssesyi/node-xlsx-writestream",
