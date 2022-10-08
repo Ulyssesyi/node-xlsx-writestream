@@ -443,7 +443,7 @@ Finalizes this file and adds supporting docs. Should not be called directly.
         @zip
           .append(blobs.contentTypes, {name: '[Content_Types].xml'})
           .append(blobs.rels, {name: '_rels/.rels'})
-          .append(blobs.workbook, {name: 'xl/workbook.xml'})
+          .append(blobs.workbook(@options.wbName), {name: 'xl/workbook.xml'})
           .append(blobs.styles, {name: 'xl/styles.xml'})
           .append(blobs.workbookRels, {name: 'xl/_rels/workbook.xml.rels'})
           .append(@relsData, {name: 'xl/worksheets/_rels/sheet1.xml.rels'})
