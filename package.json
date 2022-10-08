@@ -1,12 +1,12 @@
 {
   "name": "xlsx-writestream",
-  "description": "Streaming XLSX writer. Forked from rubenv/node-xlsx-writer.",
+  "description": "Streaming XLSX writer. Forked from rubenv/node-xlsx-writer. Add more options to custom the output excel",
   "version": "0.0.1",
-  "homepage": "https://github.com/STRML/node-xlsx-writestream",
+  "homepage": "https://github.com/Ulyssesyi/node-xlsx-writestream",
   "author": "STRML (Samuel Reed)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/STRML/node-xlsx-writestream.git"
+    "url": "git@github.com:Ulyssesyi/node-xlsx-writestream.git"
   },
   "bugs": {
     "url": "https://github.com/STRML/node-xlsx-writestream/issues"
